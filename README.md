@@ -1,5 +1,3 @@
-# Proj Sistema De Multas
-
 
 # 🚦 **Sistema de Multas**
 
