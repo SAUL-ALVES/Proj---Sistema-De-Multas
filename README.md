@@ -45,7 +45,7 @@ O projeto é organizado da seguinte forma:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SAUL-ALVES/PRoj---Sistema-De-Multas.git
+   git clone https://github.com/SAUL-ALVES/Proj-Sistema-De-Multas.git
    ```
 2. Abra o projeto em uma IDE Java (como Eclipse ou IntelliJ).
 3. Execute a classe **`SistemaMultasGUI`** para iniciar o sistema.
