@@ -1,7 +1,7 @@
 
 # 🚦 **Sistema de Multas**
 
-Este projeto é um **sistema de gerenciamento de multas** desenvolvido em Java, utilizando interfaces gráficas com **Swing**. Ele permite o cadastro de infratores e multas, consulta de multas por infrator e uma área específica para fiscais, onde é possível alterar o status de pagamento das multas.
+Este projeto é um **sistema de gerenciamento de multas** desenvolvido em Java, com intenção acadêmica, utilizando interfaces gráficas com **Swing**. Ele permite o cadastro de infratores e multas, consulta de multas por infrator e uma área específica para fiscais, onde é possível alterar o status de pagamento das multas.
 
 ---
 
