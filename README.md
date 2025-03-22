@@ -79,7 +79,7 @@ Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE)
 ### 📧 **Contato**
 
 Se tiver dúvidas ou sugestões, entre em contato:
-- **Email**: seu-email@exemplo.com
+- **Email**: saulalves55@gmail.com
 - **GitHub**: [SAUL-ALVES](https://github.com/SAUL-ALVES)
 
 ---
